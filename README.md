@@ -2,7 +2,7 @@
 <h3 align="center">Lead Developer & Full-Stack Architect | Node.js • MEAN/MERN • AWS • Microservices</h3>
 
 <p align="center">
-  📍 Mohali, India &nbsp;|&nbsp; 📧 <a href="mailto:sukhdevsingh79843@gmail.com">sukhdev.singh@smartdatainc.net</a>
+  📍 Mohali, India &nbsp;|&nbsp; 📧 <a href="mailto:sukhdevsingh79843@gmail.com">sukhdevsingh79843@gmail.com</a>
 </p>
 
 ---
