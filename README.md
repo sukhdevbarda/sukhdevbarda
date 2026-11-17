@@ -94,12 +94,12 @@ English · Hindi · Punjabi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sukhdevbarda&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sukhdevbarda&theme=github_dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sukhdevbarda&theme=github-dark-blue" alt="GitHub Streak" />
 </p>
 
 ---
